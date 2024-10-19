@@ -15,7 +15,7 @@
 ---
 
 ## Introduction
-**Project-7** is a basic fintech platform built using the MERN stack (MongoDB, Express, React, Node.js) with additional technologies such as **Hasura** for GraphQL APIs, **JWT** for authentication, and **Chakra UI** for frontend components. The project involves handling user authentication, transactions, and various fintech-related functionalities.
+**Crypto app** is a basic fintech platform built using the MERN stack (MongoDB, Express, React, Node.js) with additional technologies such as **Hasura** for GraphQL APIs, **JWT** for authentication, and **Chakra UI** for frontend components. The project involves handling user authentication, transactions, and various fintech-related functionalities.
 
 ## Features
 - User Authentication (Signup, Signin, JWT-based sessions)
@@ -44,7 +44,7 @@
 ### Backend Setup
 1. Clone the repository from GitHub:
     ```bash
-    git clone https://github.com/yourusername/project-7.git
+    git clone https://github.com/yourusername/project.git
     ```
 
 2. Navigate to the backend folder:
@@ -111,7 +111,7 @@
 
 ## Folder Structure
 ```plaintext
-project-7/
+project/
 │
 ├── backend/                # Node.js + Express backend
 │   ├── controllers/        # API controllers for authentication, transactions, etc.
